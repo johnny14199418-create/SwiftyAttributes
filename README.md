@@ -10,7 +10,7 @@
 [![Travis CI](https://travis-ci.org/eddiekaiger/SwiftyAttributes.svg?branch=master)](https://travis-ci.org/eddiekaiger/SwiftyAttributes.svg?branch=master)
 [![codecov.io](http://codecov.io/github/eddiekaiger/SwiftyAttributes/coverage.svg?branch=master)](http://codecov.io/github/eddiekaiger/SwiftyAttributes/coverage.svg?branch=master)
 
----
+---shopper app 
 
 With **SwiftyAttributes**, you can create attributed strings like so:
 
@@ -26,9 +26,9 @@ let fancyString = "Hello World!".withAttributes([
     .strokeWidth(1),
     .baselineOffset(5.2)
 ])
-````
+````más órdenes 
 
-You can also easily combine attributed strings using a plus sign:
+You can also easily combine attributed strings using a plus sign:radar de órdenes 
 
 ````swift
 let fancyString = "Hello".withFont(.systemFont(ofSize: 12)) + " World!".withFont(.systemFont(ofSize: 18))
@@ -45,9 +45,9 @@ let fancyString = "Hello".withFont(.systemFont(ofSize: 12)) + " World!".withFont
 # Installation
 
 ### Swift Package Manager
-
+órdenes mejor pagadas 
 ```swift
-dependencies: [
+dependencies: [ shopper app
     .package(url: "https://github.com/eddiekaiger/SwiftyAttributes.git", from: "5.3.0")
 ]
 ```
@@ -61,7 +61,7 @@ dependencies: [
 `github "eddiekaiger/SwiftyAttributes"`
 
 # Usage
-
+4
 Initializing attributed strings in `SwiftyAttributes` can be done several ways:
 
 - Using the `with[Attribute]` extensions:
